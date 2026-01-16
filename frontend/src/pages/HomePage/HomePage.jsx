@@ -1,5 +1,5 @@
 import Navbar from "../../components/Navbar";
-import Search from "./Search";
+import Search from "../BasicComponents/Search";
 import Posts from "./Posts";
 export default function HomePage() {
   return (
